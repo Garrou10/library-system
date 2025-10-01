@@ -8,7 +8,7 @@ class Program
 
         while (true)
         {
-            Console.WriteLine("\n--- 📚 Välkommen till Biblioteket ---");
+            Console.WriteLine("\n---  Välkommen till Biblioteket ---");
             Console.WriteLine("1. Logga in som Bibliotekarie");
             Console.WriteLine("2. Logga in som Låntagare");
             Console.WriteLine("3. Avsluta");
