@@ -6,7 +6,7 @@ public class Borrower : User, ISearchable
     {
         while (true)
         {
-            Console.WriteLine("\n--- 📖 Låntagare Meny ---");
+            Console.WriteLine("\n---  Låntagare Meny ---");
             Console.WriteLine("1. Sök bok");
             Console.WriteLine("2. Låna bok");
             Console.WriteLine("3. Lämna tillbaka bok");
