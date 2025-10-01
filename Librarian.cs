@@ -6,7 +6,7 @@ public class Librarian : User
     {
         while (true)
         {
-            Console.WriteLine("\n--- 📚 Bibliotekarie Meny ---");
+            Console.WriteLine("\n---  Bibliotekarie Meny ---");
             Console.WriteLine("1. Lägg till bok");
             Console.WriteLine("2. Lista alla böcker");
             Console.WriteLine("3. Logga ut");
